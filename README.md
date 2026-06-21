@@ -79,13 +79,16 @@ Notes and implementations using NumPy, Pandas and Data Visualization.
 ## 🤝 Let's Connect
 
 <p align="center">
-<a href="in/aakansha-saroj-120a46329">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/aakansha-saroj-120a46329">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sarojaakansha@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-<a href="mailto:sarojaakansha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  💌 Let's connect and build something amazing together!
 </p>
 
 ---
