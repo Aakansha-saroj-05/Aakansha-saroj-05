@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Aakansha+Saroj;B.Tech+ECE+(AI)+Student;DSA+Learner;AI+%26+Machine+Learning+Enthusiast" />
 </p>
 
