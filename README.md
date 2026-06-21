@@ -76,6 +76,20 @@ Notes and implementations using NumPy, Pandas and Data Visualization.
 
 ---
 
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="in/aakansha-saroj-120a46329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sarojaakansha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
